@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardopellizzon" width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardopellizzon" width="80%"/>
 </div>
 
 ---
