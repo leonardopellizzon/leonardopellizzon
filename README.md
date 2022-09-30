@@ -2,6 +2,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=leonardopellizzon" width="100%"/>
 </div>
 
+--
+
 <p align="center">
     La mia pwa:
     <a target="blank" href="https://routineleonardopellizzon.netlify.app/">
