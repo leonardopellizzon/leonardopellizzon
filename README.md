@@ -7,7 +7,7 @@
 <p align="center">
     Me:
     <a target="blank" href="https://leonardopellizzon.github.io/">
-     <img align="center" alt="Calc ip" width="40px" src="https://leonardopellizzon.github.io/favicon.ico" />
+     <img align="center" alt="Calc ip" width="40px" src="https://leonardopellizzon.github.io/LEO-PROFILO.png" />
     </a>
     La mie pwa:
     <a target="blank" href="https://routineleonardopellizzon.netlify.app/">
