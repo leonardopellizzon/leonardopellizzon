@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-    La mia pwa:
+    La mie pwa:
     <a target="blank" href="https://routineleonardopellizzon.netlify.app/">
      <img align="center" alt="Routine" width="40px" src="https://routineleonardopellizzon.netlify.app/favicon.ico" />
     </a>
