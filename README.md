@@ -8,6 +8,8 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
+![Languages (Bar)](https://wakatime.com/share/@018b336a-1669-414d-97d8-2695129f25a3/698d246c-3fa3-40b1-a115-b3a4a4d576d8.svg)
+---
 
 <p align="center">
     Me:
