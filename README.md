@@ -8,11 +8,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <p align="center">
-    Me:
-    <a target="blank" href="https://leonardopellizzon.github.io/">
-     <img align="center" alt="Calc ip" width="40px" src="https://avatars.githubusercontent.com/u/72733218?v=4&mask=circle"/>
-    </a>
-    La mie pwa:
     <a target="blank" href="https://routineleonardopellizzon.netlify.app/">
      <img align="center" alt="Routine" width="40px" src="https://routineleonardopellizzon.netlify.app/favicon.ico" />
     </a>
