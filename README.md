@@ -6,6 +6,7 @@
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![QT](https://img.shields.io/badge/qt-%23316192.svg?style=for-the-badge&logo=qt&logoColor=white)
 
 <p align="center">
     <a target="blank" href="https://routineleonardopellizzon.netlify.app/">
